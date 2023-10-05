@@ -1,0 +1,26 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"code": "JUL_15_2023",
+			"start_date": "2023-06-29",
+			"end_date": "2023-07-14",
+			"period_num": 15,
+			"quantity_days": 15,
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 2,
+			"code": "JUL_30_2023",
+			"start_date": "2023-07-16",
+			"end_date": "2023-07-31",
+			"period_num": 30,
+			"quantity_days": 15,
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		}
+	]
+}
