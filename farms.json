@@ -1,0 +1,20 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"code": "fin01",
+			"name": "Retoño",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 2,
+			"code": "fin02",
+			"name": "La consentida",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		}
+	]
+}
