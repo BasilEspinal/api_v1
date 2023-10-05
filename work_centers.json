@@ -1,0 +1,44 @@
+s{
+	"data": [
+		{
+			"id": 1,
+			"code": "CON01",
+			"name": "Contratista",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 2,
+			"code": "COR01",
+			"name": "Corta",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 3,
+			"code": "PLA01",
+			"name": "Planta",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 4,
+			"code": "SEL01",
+			"name": "Selección",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		},
+		{
+			"id": 5,
+			"code": "LAB01",
+			"name": "Laboratorio",
+			"created_at": "2023-10-01T18:40:03.000000Z",
+			"updated_at": "2023-10-01T18:40:03.000000Z",
+			"deleted_at": null
+		}
+	]
+}
